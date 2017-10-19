@@ -1,0 +1,6 @@
+D:\progiObiektowe\CW2.1\CW2.1\bin\Debug\CW2.1.exe.config
+D:\progiObiektowe\CW2.1\CW2.1\obj\Debug\CW2.1.csprojResolveAssemblyReference.cache
+D:\progiObiektowe\CW2.1\CW2.1\bin\Debug\CW2.1.exe
+D:\progiObiektowe\CW2.1\CW2.1\bin\Debug\CW2.1.pdb
+D:\progiObiektowe\CW2.1\CW2.1\obj\Debug\CW2.1.exe
+D:\progiObiektowe\CW2.1\CW2.1\obj\Debug\CW2.1.pdb
